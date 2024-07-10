@@ -1,0 +1,55 @@
+@import "./fonts.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 1);
+  background-color: #000;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --max-container-width: theme('screens.lg.min');
+  /* responsive width like 4 column grid in InventoryContainer */
+  --card-responsive-width: calc((min(theme('screens.lg.min'), 100vw) - 2*24px - 2*8px)/4);
+}
+
+body {
+  height: var(--tg-viewport-stable-height, 100vh);
+  touch-action: none !important;
+  @apply container mx-auto relative overflow-hidden;
+}
+
+video::-webkit-media-controls-overlay-play-button {
+  display: none;
+}
+
+*::-webkit-media-controls-panel {
+  display: none!important;
+  -webkit-appearance: none;
+}
+
+*::--webkit-media-controls-play-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+
+*::-webkit-media-controls-start-playback-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

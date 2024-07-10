@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:254
+msgid "-{0} min"
+msgstr "-{0} мин"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:360
+#~ msgid "{remainingCount, plural, one {Invite # friend to unlock AI} other {Invite # friends to unlock AI}}"
+#~ msgstr "{remainingCount, plural, one {Пригласите # друга, чтобы разблокировать ИИ} other {Пригласите # друзей, чтобы разблокировать ИИ}}"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:242
+msgid "+{0} gift"
+msgstr "+{0} подарок"
+
+#: src/shared/utils/formatTimeLeft.tsx:21
+msgid "> {hours}hr"
+msgstr "> {hours}ч"
+
+#: src/features/send-nft/SendNftDialog.tsx:74
+msgid "Address"
+msgstr "Адрес"
+
+#: src/widgets/wallet-manager/ui/WalletManager.tsx:100
+msgid "Address:"
+msgstr "Адрес:"
+
+#: src/pages/leaderboards/LeaderboardsPage.tsx:18
+msgid "All"
+msgstr ""
+
+#: src/widgets/friend-list/ui/FriendsList.tsx:98
+msgid "Back"
+msgstr "Назад"
+
+#: src/widgets/wallet-manager/ui/WalletManager.tsx:45
+msgid "Balance:"
+msgstr "Баланс:"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:109
+msgid "Bonus reward:"
+msgstr "Бонусная награда:"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:111
+msgid "Bonus rewards: {0}/{totalBatches}"
+msgstr "Бонусные награды: {0}/{totalBatches}"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:30
+msgid "Burn this NFT and Use in game progress"
+msgstr "Сжечь этот NFT и использовать в игровом процессе"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:38
+#: src/features/mint-artifact/MintNftDialog.tsx:38
+#: src/features/send-nft/SendNftDialog.tsx:54
+msgid "Cancel"
+msgstr "Отмена"
+
+#: src/widgets/craft-inventory/ui/CraftAreaSlot.tsx:36
+msgid "choose<0/>element"
+msgstr "выбрать<0/>элемент"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:126
+msgid "Collect"
+msgstr "Собрать"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:128
+msgid "Collect All"
+msgstr "Собрать все"
+
+#: src/features/show-game-tutorial/GameTutorial.tsx:33
+#~ msgid "Collect gifts"
+#~ msgstr "Собрать подарки"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:112
+msgid "Congratulations, you have reached a new level!"
+msgstr "Поздравляем, вы достигли нового уровня!"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:24
+#: src/features/mint-artifact/MintNftDialog.tsx:24
+#: src/features/send-nft/SendNftDialog.tsx:43
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: src/widgets/wallet-manager/ui/WalletConnectButton.tsx:20
+msgid "Connect"
+msgstr ""
+
+#: src/widgets/wallet-manager/ui/WalletConnectButton.tsx:20
+#~ msgid "Connect wallet"
+#~ msgstr "Подключить кошелек"
+
+#: src/features/show-game-tutorial/GameTutorial.tsx:35
+#~ msgid "Connect Wallet"
+#~ msgstr "Подключить кошелек"
+
+#: src/widgets/wallet-manager/ui/UserNfts.tsx:90
+msgid "Connect wallet to mint and trade"
+msgstr ""
+
+#: src/features/burn-nft/BurnNftDialog.tsx:33
+#: src/features/mint-artifact/MintNftDialog.tsx:33
+#: src/features/send-nft/SendNftDialog.tsx:52
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:28
+msgid "Continue"
+msgstr "Продолжить"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:253
+msgid "Cooldown"
+msgstr "Перезарядка"
+
+#: src/widgets/wallet-manager/ui/WalletManager.tsx:109
+msgid "Copied"
+msgstr "Скопировано"
+
+#: src/layouts/main/MainTabBar.tsx:11
+msgid "Craft"
+msgstr "Крафт"
+
+#: src/widgets/wallet-manager/ui/WalletDisconnectButton.tsx:13
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: src/widgets/leaderboards/ui/Leaderboards.tsx:22
+msgid "Elements"
+msgstr "Элементы"
+
+#: src/shared/ui/navigation/StatusBar.tsx:37
+#~ msgid "Elements:"
+#~ msgstr "Элементы:"
+
+#: src/layouts/main/MainTabBar.tsx:18
+#: src/pages/leaderboards/LeaderboardsPage.tsx:24
+#: src/widgets/leaderboards/ui/Leaderboards.tsx:25
+msgid "Friends"
+msgstr "Друзья"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:121
+msgid "Get reward"
+msgstr "Получить награду"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:123
+msgid "Get rewards"
+msgstr "Получить награды"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:124
+msgid "Good Work!"
+msgstr ""
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:101
+msgid "has accepted your invite!"
+msgstr "принял ваше приглашение!"
+
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:52
+msgid "Hide"
+msgstr "Скрыть"
+
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:27
+msgid "Information"
+msgstr "Информация"
+
+#: src/features/send-nft/SendNftDialog.tsx:84
+msgid "Invalid address"
+msgstr "Неверный адрес"
+
+#: src/layouts/main/MainTabBar.tsx:17
+#~ msgid "Inventory"
+#~ msgstr "Инвентарь"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:107
+msgid "Inventory is full"
+msgstr "Инвентарь полон"
+
+#: src/features/friend-invite/FriendInviteButton.tsx:36
+msgid "Invite"
+msgstr "Пригласить"
+
+#: src/pages/leaderboards/LeaderboardsPage.tsx:31
+#~ msgid "Invite friend"
+#~ msgstr "Пригласить друга"
+
+#: src/pages/leaderboards/LeaderboardsPage.tsx:36
+msgid "Invite friend +"
+msgstr ""
+
+#: src/features/show-game-tutorial/GameTutorial.tsx:34
+#~ msgid "Invite friends"
+#~ msgstr "Пригласить друзей"
+
+#: src/widgets/friend-list/ui/EmptyFriends.tsx:11
+msgid "Invite friends and collect more rewards!"
+msgstr "Приглашайте друзей и собирайте больше наград!"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:176
+#: src/widgets/friend-list/ui/FriendInviteAlert.tsx:13
+msgid "Invite more friends and get additional slots with rewards boxes and speed up the cooldown of rewards."
+msgstr "Приглашайте больше друзей и получайте дополнительные слоты с наградными коробками, а также ускоряйте перезарядку наград."
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:186
+#: src/widgets/friend-list/ui/FriendInviteAlert.tsx:24
+msgid "Invite new friend"
+msgstr "Пригласить нового друга"
+
+#: src/widgets/user-status-bar/UserStatusBar.tsx:38
+msgid "Ladder"
+msgstr ""
+
+#: src/layouts/main/MainTabBar.tsx:21
+msgid "Leaders"
+msgstr "Лидеры"
+
+#: src/features/show-game-tutorial/GameTutorial.tsx:26
+msgid "Let's GO!"
+msgstr ""
+
+#: src/features/show-game-tutorial/GameTutorial.tsx:152
+#~ msgid "Let’s start!"
+#~ msgstr "Начнем!"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:120
+msgid "Let's try!"
+msgstr ""
+
+#: src/widgets/leaderboards/ui/Leaderboards.tsx:28
+msgid "Level"
+msgstr "Уровень"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:105
+msgid "Level Up!"
+msgstr "Повышение уровня!"
+
+#: src/widgets/friend-list/ui/FriendsList.tsx:59
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: src/features/lootbox-bar/ui/LootboxBarItem.tsx:113
+msgid "Locked"
+msgstr "Закрыт"
+
+#: src/widgets/craft-inventory/ui/UserInventory.tsx:67
+msgid "Long tap to info"
+msgstr ""
+
+#: src/widgets/friend-list/ui/FriendCard.tsx:22
+#: src/widgets/friend-list/ui/FriendDetail.tsx:25
+msgid "LVL {0}"
+msgstr "УРОВ {0}"
+
+#: src/shared/ui/inventory/ElementCard.tsx:154
+#: src/shared/ui/navigation/StatusBar.tsx:55
+#: src/widgets/leaderboards/ui/LeaderboardItem.tsx:55
+msgid "LVL {level}"
+msgstr "УРОВ {level}"
+
+#: src/widgets/user-status-bar/UserStatusBar.tsx:45
+msgid "Market"
+msgstr ""
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:208
+msgid "Maximum number of stock in inventory. Please free up space in your inventory by CRAFTING to receive reward."
+msgstr "Максимальное количество запасов в инвентаре. Пожалуйста, освободите место в инвентаре, создавая предметы, чтобы получить награду."
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:170
+msgid "Merge"
+msgstr ""
+
+#: src/features/mint-artifact/MintArtifactButton.tsx:80
+#: src/widgets/wallet-manager/ui/WalletManager.tsx:58
+msgid "Mint"
+msgstr "Создать"
+
+#: src/widgets/wallet-manager/ui/UserMintElements.tsx:38
+msgid "Mint to {0} TON"
+msgstr "Создать за {0} TON"
+
+#: src/features/mint-artifact/MintNftDialog.tsx:24
+msgid "Mint!"
+msgstr "Создать!"
+
+#: src/widgets/wallet-manager/ui/UserMintElements.tsx:15
+msgid "My Elements"
+msgstr "Мои элементы"
+
+#: src/widgets/wallet-manager/ui/UserNfts.tsx:64
+msgid "My NFT"
+msgstr "Мой NFT"
+
+#: src/widgets/leaderboards/ui/LeaderboardItem.tsx:44
+msgid "My Ranking"
+msgstr "Мой рейтинг"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:118
+msgid "New Element Unlocked:"
+msgstr "Новый элемент разблокирован:"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:241
+msgid "New slot"
+msgstr "Новый слот"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:139
+msgid "Next reward"
+msgstr "Следующая награда"
+
+#: src/features/send-nft/SendNftDialog.tsx:47
+msgid "NFT send successfully"
+msgstr "NFT успешно отправлен"
+
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:56
+msgid "No description"
+msgstr "Нет описания"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:110
+msgid "No such recipe. Try another one!"
+msgstr "Такого рецепта нет. Попробуйте другой!"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:103
+msgid "Oops..."
+msgstr "Упс..."
+
+#: src/widgets/wallet-manager/ui/ViewCollectionButton.tsx:21
+msgid "Our collection"
+msgstr "Наша коллекция"
+
+#: src/pages/home/HomePage.tsx:45
+msgid "Play"
+msgstr "Играть"
+
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:51
+msgid "Read about element"
+msgstr "Читать об элементе"
+
+#: src/features/view-inventory-item-detail/ui/ElementDetailDialog.tsx:63
+msgid "Recipes"
+msgstr "Рецепты"
+
+#: src/features/claim-social-rewards/ui/GetSocialRewardsButton.tsx:20
+msgid "Rewards"
+msgstr "Награды"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:369
+#~ msgid "Saves you from mistakes while crafting"
+#~ msgstr "Защищает от ошибок при создании"
+
+#: src/widgets/wallet-manager/ui/UserNfts.tsx:41
+msgid "Send"
+msgstr "Отправить"
+
+#: src/features/send-nft/SendNftDialog.tsx:49
+msgid "Send NFT to address"
+msgstr "Отправить NFT на адрес"
+
+#: src/features/send-nft/SendNftDialog.tsx:43
+msgid "Send!"
+msgstr "Отправить!"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:87
+msgid "Social Power!"
+msgstr "Социальная сила!"
+
+#: src/app/app-error-wrapper.tsx:16
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: src/widgets/wallet-manager/ui/WalletManager.tsx:58
+msgid "Stop mint"
+msgstr "Остановить создание"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:107
+msgid "Success Craft!"
+msgstr "Успешный крафт!"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:28
+msgid "Successfully burned NFT"
+msgstr "NFT успешно сожжен"
+
+#: src/features/mint-artifact/MintNftDialog.tsx:28
+msgid "Successfully minted NFT"
+msgstr "NFT успешно создан"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:38
+#: src/features/mint-artifact/MintNftDialog.tsx:38
+#: src/features/send-nft/SendNftDialog.tsx:54
+msgid "Tap to continue"
+msgstr "Нажмите, чтобы продолжить"
+
+#: src/features/mint-artifact/MintNftDialog.tsx:30
+msgid "The cost of mint NFT is {0} TON"
+msgstr "Стоимость создания NFT составляет {0} TON"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:60
+msgid "The Element will arrive in your inventory within a few minutes"
+msgstr "Элемент поступит в ваш инвентарь в течение нескольких минут"
+
+#: src/features/mint-artifact/MintNftDialog.tsx:60
+msgid "The NFT will arrive in your wallet within a few minutes"
+msgstr "NFT поступит в ваш кошелек в течение нескольких минут"
+
+#: src/app/app-error-wrapper.tsx:22
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:266
+msgid "Unlocked"
+msgstr "Разблокировано"
+
+#: src/features/burn-nft/BurnNftButton.tsx:71
+#: src/features/send-nft/SendNftButton.tsx:65
+#: src/widgets/wallet-manager/ui/UserNfts.tsx:50
+msgid "Use"
+msgstr "Использовать"
+
+#: src/features/burn-nft/BurnNftDialog.tsx:24
+msgid "Use!"
+msgstr "Использовать!"
+
+#: src/widgets/friend-list/ui/FriendCard.tsx:36
+msgid "View"
+msgstr "Просмотр"
+
+#: src/layouts/main/MainTabBar.tsx:24
+msgid "Wallet"
+msgstr "Кошелек"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:85
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:122
+msgid "Yahoooo!!!!!"
+msgstr ""
+
+#: src/widgets/wallet-manager/ui/UserNfts.tsx:76
+msgid "You don’t have any NFTs available. <0/> You can mint NFTs or buy on the getgems"
+msgstr "У вас нет доступных NFT. <0/> Вы можете создать NFT или купить на getgems"
+
+#: src/widgets/craft-inventory/ui/CraftArea.tsx:308
+msgid "You tried this combination.<0/>No such recipe"
+msgstr "Вы пробовали эту комбинацию.<0/>Такого рецепта нет"
+
+#: src/features/claim-social-rewards/ui/SocialRewardsNotification.tsx:95
+msgid "Your friend"
+msgstr "Ваш друг"

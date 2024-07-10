@@ -1,0 +1,36 @@
+{
+  "batchRewards": [
+    {
+      "_id": "663fd41cb3ad9bcbcf273949",
+      "level": 1,
+      "claimableArtifacts": [
+        {
+          "_id": "663fd41cb3ad9bcbcf27394d",
+          "artifact": {
+            "_id": "6630c09730f65a832c900120",
+            "id": "4",
+            "logoUrl": "https://cdn.devtonchemy.ru/images/Earth.webp",
+            "name": "Earth",
+            "description": "",
+            "level": 1,
+            "mintingPrice": "0.2",
+            "createdAt": "2024-04-30T09:49:18.576Z",
+            "updatedAt": "2024-05-11T18:57:43.682Z",
+            "__v": 0,
+            "backgroundColor": "#B44B0F",
+            "strokeColor": "#58382B",
+            "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Earth.webp",
+            "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Earth.webp"
+          },
+          "count": 11,
+          "__v": 0
+        }
+      ],
+      "itemRegenerationTime": 0,
+      "giftSlotsAmount": 3,
+      "newGiftSlotsAmount": 0,
+      "isClaimed": false,
+      "__v": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "6646392f5ccb47248106e138",
+  "artifact": {
+    "_id": "6645942886314d986c6bbfd8",
+    "id": "07d5987727f69559a1d2e7450903f31d",
+    "logoUrl": "https://cdn.devtonchemy.ru/images/07d5987727f69559a1d2e7450903f31d.webp",
+    "backgroundColor": "#162C52\r\n",
+    "strokeColor": "#214778",
+    "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/07d5987727f69559a1d2e7450903f31d.webp",
+    "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/07d5987727f69559a1d2e7450903f31d.webp",
+    "name": "Water",
+    "description": "Water is essential for all forms of life on Earth, with the human body being made up of about 60% water. Water is the only substance on Earth that exists in three states: solid (ice), liquid (water), and gas (water vapor)",
+    "level": 1,
+    "mintingPrice": "0.1",
+    "createdAt": "2024-05-16T05:05:44.772Z",
+    "updatedAt": "2024-05-17T20:43:31.302Z",
+    "__v": 0
+  },
+  "count": 1,
+  "maxAmount": 10,
+  "openedDate": "2024-05-16T16:49:51.795Z",
+  "__v": 0
+}

@@ -1,0 +1,210 @@
+{
+  "gifts": [
+    {
+      "_id": "6630c09730f65a832c90011a",
+      "id": "2",
+      "logoUrl": "https://cdn.devtonchemy.ru/images/Air.webp",
+      "name": "Air",
+      "description": "",
+      "level": 1,
+      "mintingPrice": "0.5",
+      "createdAt": "2024-04-30T09:49:18.576Z",
+      "updatedAt": "2024-05-11T18:57:43.670Z",
+      "__v": 0,
+      "backgroundColor": "#7D6EAF",
+      "strokeColor": "#473C68",
+      "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Air.webp",
+      "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Air.webp"
+    },
+    {
+      "_id": "6630c09730f65a832c900120",
+      "id": "4",
+      "logoUrl": "https://cdn.devtonchemy.ru/images/Earth.webp",
+      "name": "Earth",
+      "description": "",
+      "level": 1,
+      "mintingPrice": "0.2",
+      "createdAt": "2024-04-30T09:49:18.576Z",
+      "updatedAt": "2024-05-11T18:57:43.682Z",
+      "__v": 0,
+      "backgroundColor": "#B44B0F",
+      "strokeColor": "#58382B",
+      "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Earth.webp",
+      "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Earth.webp"
+    }
+  ],
+  "isNewCraftedPair": true,
+  "isLevelUp": true,
+  "crafted": {
+    "_id": "6630c09730f65a832c900138",
+    "id": "12",
+    "logoUrl": "https://cdn.devtonchemy.ru/images/Stone.webp",
+    "name": "Stone",
+    "description": "Fire is the only element that humanity not only discovered but also consciously created, making it the oldest \"invention\" of mankind.",
+    "level": 3,
+    "mintingPrice": "3.5",
+    "createdAt": "2024-04-30T09:49:18.576Z",
+    "updatedAt": "2024-05-11T18:57:43.724Z",
+    "__v": 0,
+    "backgroundColor": "#8CAAB4",
+    "strokeColor": "#31444A",
+    "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Stone.webp",
+    "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Stone.webp"
+  },
+  "user": {
+    "telegramId": 104077315,
+    "username": "ndelitski",
+    "language": "en",
+    "is_bot": false,
+    "first_name": "Nick",
+    "photoUrl": null,
+    "claimableSlots": [
+      "2024-05-11T17:50:15.598Z",
+      "2024-05-11T19:50:15.598Z",
+      "2024-05-11T21:50:15.598Z"
+    ],
+    "inventory": [
+      {
+        "_id": "663f94af92efd339a724c7eb",
+        "artifact": {
+          "_id": "6630c09730f65a832c900117",
+          "id": "1",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Water.webp",
+          "name": "Water",
+          "description": "Fire is the only element that humanity not only discovered but also consciously created, making it the oldest \"invention\" of mankind.",
+          "level": 1,
+          "mintingPrice": "0.3",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.656Z",
+          "__v": 0,
+          "backgroundColor": "#0FAFAA",
+          "strokeColor": "#214778",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Water.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Water.webp"
+        },
+        "count": 0,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T15:54:23.234Z",
+        "__v": 0
+      },
+      {
+        "_id": "663f94af92efd339a724c805",
+        "artifact": {
+          "_id": "6630c09730f65a832c90011a",
+          "id": "2",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Air.webp",
+          "name": "Air",
+          "description": "",
+          "level": 1,
+          "mintingPrice": "0.5",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.670Z",
+          "__v": 0,
+          "backgroundColor": "#7D6EAF",
+          "strokeColor": "#473C68",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Air.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Air.webp"
+        },
+        "count": 8,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T15:54:23.282Z",
+        "__v": 0
+      },
+      {
+        "_id": "663f94af92efd339a724c81f",
+        "artifact": {
+          "_id": "6630c09730f65a832c90011d",
+          "id": "3",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Fire.webp",
+          "name": "Fire",
+          "description": "",
+          "level": 1,
+          "mintingPrice": "0.4",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.676Z",
+          "__v": 0,
+          "backgroundColor": "#Ff6423",
+          "strokeColor": "#583838",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Fire.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Fire.webp"
+        },
+        "count": 10,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T15:54:23.332Z",
+        "__v": 0
+      },
+      {
+        "_id": "663f94af92efd339a724c839",
+        "artifact": {
+          "_id": "6630c09730f65a832c900120",
+          "id": "4",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Earth.webp",
+          "name": "Earth",
+          "description": "",
+          "level": 1,
+          "mintingPrice": "0.2",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.682Z",
+          "__v": 0,
+          "backgroundColor": "#B44B0F",
+          "strokeColor": "#58382B",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Earth.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Earth.webp"
+        },
+        "count": 10,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T15:54:23.373Z",
+        "__v": 0
+      },
+      {
+        "_id": "663f94b892efd339a724c86b",
+        "artifact": {
+          "_id": "6630c09730f65a832c90012c",
+          "id": "8",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Pressure.webp",
+          "name": "Pressure",
+          "description": "в других алхимиях отображается как барометр со стрелкой",
+          "level": 2,
+          "mintingPrice": "1.5",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.705Z",
+          "__v": 0,
+          "backgroundColor": "#C8AA96",
+          "strokeColor": "#4C3F38",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Pressure.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Pressure.webp"
+        },
+        "count": 1,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T15:54:32.611Z",
+        "__v": 0
+      },
+      {
+        "_id": "663fc711c26276f23f47b46e",
+        "artifact": {
+          "_id": "6630c09730f65a832c900138",
+          "id": "12",
+          "logoUrl": "https://cdn.devtonchemy.ru/images/Stone.webp",
+          "name": "Stone",
+          "description": "",
+          "level": 3,
+          "mintingPrice": "3.5",
+          "createdAt": "2024-04-30T09:49:18.576Z",
+          "updatedAt": "2024-05-11T18:57:43.724Z",
+          "__v": 0,
+          "backgroundColor": "#8CAAB4",
+          "strokeColor": "#31444A",
+          "gifUrl": "https://cdn.devtonchemy.ru/images/gifs/Stone.webp",
+          "thumbnailUrl": "https://cdn.devtonchemy.ru/images/thumb/Stone.webp"
+        },
+        "count": 1,
+        "maxAmount": 10,
+        "openedDate": "2024-05-11T19:29:21.009Z",
+        "__v": 0
+      }
+    ],
+    "level": 3,
+    "maxInventorySize": 390,
+    "currentElementsCount": 6
+  }
+}

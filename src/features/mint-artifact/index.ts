@@ -1,0 +1,1 @@
+export { MintArtifactButton } from "./MintArtifactButton";

@@ -1,0 +1,1 @@
+export { BurnNftButton } from "./BurnNftButton";

@@ -1,0 +1,28 @@
+{
+  "nft_items": [
+    {
+      "address": "0:6B823DBA4EAC4D5C20E798D79D05DF35085E299E4A203CE0A6339EB7A0C9CBE5",
+      "collection_address": "0:7DC6E377FE0794AD326E6719AD92D8B87E8FD3CB012CD08DF948323D57E4E633",
+      "owner_address": "0:1A4E2E7406F9EC48018B884DBEA31484CF3127C35E244AEA550AC15AC90ACBB8",
+      "init": true,
+      "index": "265914213820806656419740937352132560966",
+      "last_transaction_lt": "21547927000004",
+      "code_hash": "47peBZE6YGge2VOTwrm90vih56WYb4NADapg3RL7WD8=",
+      "data_hash": "j0pwdGU7k+jbXnDFHZFSSU8tIvFeRYikXxdXQ2aicfs=",
+      "content": {
+        "uri": "https://cdn.devtonchemy.ru/nfts/1.json"
+      },
+      "collection": {
+        "address": "0:7DC6E377FE0794AD326E6719AD92D8B87E8FD3CB012CD08DF948323D57E4E633",
+        "owner_address": "0:29D6DBB4C11C79713BA40D441679EFCF05722F84D61133C7D9B62F10815959EF",
+        "last_transaction_lt": "21547927000003",
+        "next_item_index": "-1",
+        "collection_content": {
+          "uri": "https://cdn.devtonchemy.ru/nfts/collection.json"
+        },
+        "code_hash": "JUd1GEV/AAA4tALHDHLrQ0EAAAAAAAAAAAAAAAAAAAA=",
+        "data_hash": "1V03VjIcUjKeMDW/ZjlSkOCtIdefyAZldRVywbkKNWo="
+      }
+    }
+  ]
+}
